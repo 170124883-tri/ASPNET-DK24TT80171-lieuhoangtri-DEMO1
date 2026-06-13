@@ -1,0 +1,9 @@
+HƯỚNG DẪN CÀI ĐẶT WEBSITE APPLE STORE
+
+1. Mở SQL Server Management Studio.
+2. Tạo database tên AppleStoreDB.
+3. Chạy file AppleStoreDB.sql trong thư mục setup.
+4. Mở project bằng Visual Studio.
+5. Kiểm tra chuỗi kết nối trong Web.config.
+6. Nhấn F5 để chạy chương trình.
+7. Đăng nhập bằng tài khoản admin.
